@@ -937,6 +937,13 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f06000c;
         public static final int action_settings=0x7f06000d;
         public static final int app_name=0x7f06000e;
+        public static final int build_it_bigger=0x7f06000f;
+        public static final int capstone=0x7f060010;
+        public static final int library=0x7f060011;
+        public static final int my_nano_degree=0x7f060012;
+        public static final int scores=0x7f060013;
+        public static final int spotify_streamer=0x7f060014;
+        public static final int xyz_reader=0x7f060015;
     }
     public static final class style {
         /**  Customize your theme here. 

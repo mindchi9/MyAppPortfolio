@@ -346,6 +346,13 @@ int string abc_shareactionprovider_share_with 0x7f06000b
 int string abc_shareactionprovider_share_with_application 0x7f06000c
 int string action_settings 0x7f06000d
 int string app_name 0x7f06000e
+int string build_it_bigger 0x7f06000f
+int string capstone 0x7f060010
+int string library 0x7f060011
+int string my_nano_degree 0x7f060012
+int string scores 0x7f060013
+int string spotify_streamer 0x7f060014
+int string xyz_reader 0x7f060015
 int style AppTheme 0x7f090041
 int style TextAppearance_AppCompat_Base_CompactMenu_Dialog 0x7f090042
 int style TextAppearance_AppCompat_Base_SearchResult 0x7f090043
