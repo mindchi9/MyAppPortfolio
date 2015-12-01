@@ -16,7 +16,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:text="My Nano Degree Apps"
+        android:text="@string/my_nano_program"
         android:id="@+id/textView"
         android:textSize="20sp"
         android:fontFamily="sans-serif-light"
@@ -31,7 +31,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:text="Spotify Streamer"
+            android:text="@string/spotify_streamer"
             android:id="@+id/button"
             android:background="#F08C35"
             android:clickable="true"
@@ -45,7 +45,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:text="Scores App"
+            android:text="@string/scores"
             android:id="@+id/button2"
             android:background="#F08C35"
             android:onClick="scores_app"
@@ -58,7 +58,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:text="Library App"
+            android:text="@string/library"
             android:id="@+id/button3"
             android:layout_gravity="right"
             android:background="#F08C35"
@@ -72,7 +72,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:text="Build It Bigger"
+            android:text="@string/build_it_bigger"
             android:id="@+id/button4"
             android:background="#F08C35"
             android:onClick="build_it"
@@ -85,7 +85,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:text="XYZ Reader"
+            android:text="@string/xyz_reader"
             android:id="@+id/button5"
             android:background="#F08C35"
             android:onClick="xyz_reader"
@@ -98,7 +98,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:text="Capstone"
+            android:text="@string/capstone"
             android:id="@+id/button6"
             android:background="#7a35f0"
             android:layout_gravity="center_horizontal"

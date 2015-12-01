@@ -695,10 +695,23 @@ containing a value of this type.
         public static final int abc_split_action_bar_is_narrow=0x7f070002;
     }
     public static final class color {
-        public static final int abc_search_url_text_holo=0x7f0b0003;
+        public static final int abc_search_url_text_holo=0x7f0b0010;
         public static final int abc_search_url_text_normal=0x7f0b0000;
         public static final int abc_search_url_text_pressed=0x7f0b0001;
         public static final int abc_search_url_text_selected=0x7f0b0002;
+        public static final int card_action=0x7f0b0003;
+        public static final int card_action_bg=0x7f0b0004;
+        public static final int card_action_focused=0x7f0b0005;
+        public static final int card_action_inverted=0x7f0b0006;
+        public static final int card_action_item_bg=0x7f0b0007;
+        public static final int card_action_negative=0x7f0b0008;
+        public static final int card_action_negative_focused=0x7f0b0009;
+        public static final int card_action_negative_ripple=0x7f0b000a;
+        public static final int card_action_positive=0x7f0b000b;
+        public static final int card_action_positive_focused=0x7f0b000c;
+        public static final int card_action_positive_ripple=0x7f0b000d;
+        public static final int card_action_ripple=0x7f0b000e;
+        public static final int card_content_textcolor=0x7f0b000f;
     }
     public static final class dimen {
         public static final int abc_action_bar_default_height=0x7f080000;
@@ -937,6 +950,13 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f06000c;
         public static final int action_settings=0x7f06000d;
         public static final int app_name=0x7f06000e;
+        public static final int build_it_bigger=0x7f06000f;
+        public static final int capstone=0x7f060010;
+        public static final int library=0x7f060011;
+        public static final int my_nano_program=0x7f060012;
+        public static final int scores=0x7f060013;
+        public static final int spotify_streamer=0x7f060014;
+        public static final int xyz_reader=0x7f060015;
     }
     public static final class style {
         /**  Customize your theme here. 
